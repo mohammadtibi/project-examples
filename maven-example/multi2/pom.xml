@@ -12,13 +12,6 @@
         <daversion>${project.parent.version}</daversion>
     </properties>
     
-    <dependencies>
-      <dependency>
-        <groupId>io.confluent</groupId>
-        <artifactId>kafka-avro-serializer</artifactId>
-        <version>3.1.1</version>
-      </dependency>
-    </dependencies>
     
     <artifactId>multi2</artifactId>
     <version>6.16-SNAPSHOT</version>
