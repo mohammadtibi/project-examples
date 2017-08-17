@@ -27,7 +27,7 @@
                     <execution>
                         <id>attach-sources</id>
                         <goals>
-                            <goal>jar</goal>
+                            <goal>xml</goal>
                         </goals>
                     </execution>
                 </executions>
