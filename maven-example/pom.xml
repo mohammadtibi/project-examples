@@ -7,6 +7,10 @@
     <packaging>pom</packaging>
     <name>Simple Multi Modules Build</name>
 
+     <scm>
+    <developerConnection>scm:git:git@github.com:mohammadtibi/project-examples.git</developerConnection>
+  </scm>
+    
     <modules>
         <module>multi1</module>
         <module>multi2</module>
@@ -39,6 +43,13 @@
                     <artifactId>maven-war-plugin</artifactId>
                     <version>2.4</version>
                 </plugin>
+                  
+                <plugin>
+                   <groupId>org.apache.maven.plugins</groupId>
+                   <artifactId>maven-release-plugin</artifactId>
+                   <version>2.5.3</version>
+                </plugin>
+                
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
                     <artifactId>maven-source-plugin</artifactId>
