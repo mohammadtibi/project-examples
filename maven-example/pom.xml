@@ -3,13 +3,13 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>mohammadt4.org.jfrog.ojo.test</groupId>
     <artifactId>multi</artifactId>
-    <version>6.99-SNAPSHOT</version>
+    <version>6.99</version>
     <packaging>pom</packaging>
     <name>Simple Multi Modules Build</name>
 
      <scm>
     <developerConnection>scm:git:git@github.com:mohammadtibi/project-examples.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>multi-6.99</tag>
   </scm>
     
     <modules>
