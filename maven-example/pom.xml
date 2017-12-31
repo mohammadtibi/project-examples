@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>mohammadt5.org.jfrog.new.ojo.test</groupId>
     <artifactId>multi</artifactId>
-    <version>6.400-SNAPSHOT</version>
+    <version>6.500-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Simple Multi Modules Build</name>
 
