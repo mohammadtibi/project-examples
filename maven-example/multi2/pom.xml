@@ -4,7 +4,7 @@
     <parent>
         <groupId>mohammadt5.org.jfrog.new.ojo.test</groupId>
         <artifactId>multi</artifactId>
-        <version>6.501-SNAPSHOT</version>
+        <version>6.501</version>
     </parent>
 
 
@@ -14,7 +14,7 @@
     
     
     <artifactId>multi2</artifactId>
-    <version>6.501-SNAPSHOT</version>
+    <version>6.501</version>
     <packaging>jar</packaging>
     <name>Multi 2</name>
 
